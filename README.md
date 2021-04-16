@@ -9,9 +9,6 @@
 ⚡ Fun fact: I wanna marry [LiSA](https://github.com/UniVE-SSV/lisa)
 
 <p align="center">
- <img align='center'src="https://github-readme-stats.vercel.app/api/top-langs/?username=VincenzoArceri&layout=default&hide_border=true&theme=dark"/>
-</p>  
-<p align="center">
  <img align='center' width="49%" src="https://github-readme-stats.vercel.app/api?username=VincenzoArceri&show_icons=true&theme=dark&hide_border=true"/>
  <img align='center' width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=VincenzoArceri&theme=dark&hide_border=true"/>
 </p>
