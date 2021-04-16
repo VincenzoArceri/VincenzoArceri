@@ -1,9 +1,12 @@
 ### Hi there, I'm Vincenzo Arceri 👋
 
-- 🔭 I’m a postdoctoral researcher at the Ca’ Foscari University of Venice, in the [Software and System Verification group](https://ssv.dais.unive.it/)
-- :seedling: Interested in static program analysis, string analysis and verification, abstract interpretation
-- 📫 How to reach me: vincenzo.arceri[at]unive[dot]it
-- ⚡ Fun fact: I wanna marry [LiSA](https://github.com/UniVE-SSV/lisa)
+🔭 Postdoctoral researcher at the Ca’ Foscari University of Venice, in the [Software and System Verification group](https://ssv.dais.unive.it/)
+
+:seedling: Interested in static program analysis, string analysis and verification, abstract interpretation
+
+📫 How to reach me: vincenzo.arceri[at]unive[dot]it
+
+⚡ Fun fact: I wanna marry [LiSA](https://github.com/UniVE-SSV/lisa)
 
 ![VincenzoArceri's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=VincenzoArceri&layout=default&hide_border=true&theme=dark)
 
