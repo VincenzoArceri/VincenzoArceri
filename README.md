@@ -1,7 +1,7 @@
 ### Hi there, I'm Vincenzo Arceri 👋
 
-- 🔭 I’m currently a postdoctoral researcher in the Department of Environmental Sciences, Informatics and Statistics at the Ca’ Foscari University of Venice, in the Software and System Verification research group
-- :seedling: Interested in static program analysis, string analysis and verification, abstract interpretation and, more in general, formal methods for program security
+- 🔭 I’m a postdoctoral researcher at the Ca’ Foscari University of Venice, in the [Software and System Verification group](https://ssv.dais.unive.it/)
+- :seedling: Interested in static program analysis, string analysis and verification, abstract interpretation
 - 📫 How to reach me: vincenzo.arceri[at]unive[dot]it
 - ⚡ Fun fact: I wanna marry [LiSA](https://github.com/UniVE-SSV/lisa)
 
