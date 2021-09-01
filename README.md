@@ -1,6 +1,6 @@
 ### Hi there, I'm Vincenzo Arceri 👋
 
-🔭 Postdoctoral researcher at the Ca’ Foscari University of Venice, in the [Software and System Verification group](https://ssv.dais.unive.it/)
+🔭 Non-tenured Track Assistant Professor at the University of Parma
 
 :seedling: Interested in static program analysis, string analysis and verification, abstract interpretation
 
