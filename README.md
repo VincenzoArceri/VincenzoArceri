@@ -4,7 +4,7 @@
 
 :seedling: Interested in static program analysis, string analysis and verification, abstract interpretation
 
-📫 How to reach me: vincenzo.arceri[at]unive[dot]it
+📫 How to reach me: vincenzo.arceri[at]unipr[dot]it
 
 ⚡ Fun fact: I wanna marry [LiSA](https://github.com/UniVE-SSV/lisa)
 
