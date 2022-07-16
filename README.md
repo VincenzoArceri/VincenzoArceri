@@ -1,6 +1,6 @@
 ### Hi there, I'm Vincenzo Arceri 👋
 
-🔭 Non-tenured Track Assistant Professor at the University of Parma
+🔭 Assistant Professor (no-tenure track) at the University of Parma
 
 :seedling: Interested in static program analysis, string analysis and verification, abstract interpretation
 
