@@ -1,4 +1,3 @@
-### Hi there, I'm Vincenzo Arceri 👋
 
 🔭 Assistant Professor (no-tenure track) at the University of Parma
 
