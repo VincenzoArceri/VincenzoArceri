@@ -5,7 +5,7 @@
 
 📫 How to reach me: vincenzo.arceri[at]unipr[dot]it
 
-⚡ Fun fact: I wanna marry [LiSA](https://github.com/UniVE-SSV/lisa)
+⚡ Check out [LiSA](https://github.com/UniVE-SSV/lisa)!
 
 ---
 
