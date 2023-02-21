@@ -1,11 +1,11 @@
 
 🔭 Assistant Professor (no-tenure track) at the University of Parma
 
-:seedling: Interested in static program analysis, string analysis and verification, abstract interpretation
+:seedling: Interested in static program analysis and verification, abstract interpretation
 
 📫 How to reach me: vincenzo.arceri[at]unipr[dot]it
 
-⚡ Check out [LiSA](https://github.com/UniVE-SSV/lisa)!
+⚡ Check out [LiSA](https://github.com/lisa-analyzer/lisa)!
 
 ---
 
